@@ -13,7 +13,3 @@ else:
     print('Your grade is an F')
 
 
-counties = ["Arapahoe","Denver","Jefferson"] 
-if "El Paso" not in counties: 
-    print("True") 
-else: print("False")

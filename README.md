@@ -12,7 +12,7 @@ Python
 
 ## Election-Audit Results
 
-![Image 1: Election Analysis.csv](
+![Image 1: Election Analysis.csv](https://github.com/ipbrieske/Election_Analysis/blob/main/analysis/election_results_output.png)
 
 - Votes Cast
 

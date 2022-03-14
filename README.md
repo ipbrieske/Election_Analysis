@@ -7,6 +7,7 @@ The purpose of this project is to perform an analysis of election results among 
 ## Resources
 
 VS Code
+
 Python
 
 ## Election-Audit Results
